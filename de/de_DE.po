@@ -1,0 +1,82 @@
+#: sphinx/application.py:158
+#, python-format
+msgid "config directory doesn't contain a conf.py file (%s)"
+msgstr "config-Verzeichnis enthält keine conf.py-Datei (%s)"
+msgctxt "test text"
+
+#: sphinx/application.py:162
+#, python-format
+msgid "Cannot find source directory (%s)"
+msgstr ""
+msgid_plural "%s days"
+
+#: sphinx/application.py:166
+#, python-format
+msgid "Output directory (%s) is not a directory"
+msgstr "Ausgabeverzeichnis (%s) ist kein Verzeichnis"
+
+#: sphinx/application.py:170
+msgid "Source directory and destination directory cannot be identical"
+msgstr "Quellverzeichnis und Zielverzeichnis dürfen nicht identisch sein"
+
+#: sphinx/application.py:201
+#, python-format
+msgid "Running Sphinx v%s"
+msgstr "Laufende Sphinx v%s"
+
+#: sphinx/application.py:205
+msgid ""
+"For security reason, parallel mode is disabled on macOS and python3.8 and "
+"above. For more details, please read https://github.com/sphinx-doc/sphinx/"
+"issues/6803"
+msgstr "Aus Sicherheitsgründen ist der Parallelmodus unter macOS und Python3.8 deaktiviert und3.8
+über. Weitere Informationen finden Sie unter https://github.com/sphinx-doc/sphinx/
+Ausgaben/6803"
+
+#: sphinx/application.py:229
+#, python-format
+msgid ""
+"This project needs at least Sphinx v%s and therefore cannot be built with "
+"this version."
+msgstr "Dieses Projekt benötigt mindestens Sphinx v%s und kann daher nicht mit erstellt werden
+diese Version."
+
+#: sphinx/application.py:249
+msgid "making output directory"
+msgstr "Ausgabeverzeichnis erstellen"
+
+#: sphinx/application.py:254 sphinx/registry.py:417
+#, python-format
+msgid "while setting up extension %s:"
+msgstr "beim Einrichten der Erweiterung %s:"
+
+#: sphinx/application.py:260
+msgid ""
+"'setup' as currently defined in conf.py isn't a Python callable. Please "
+"modify its definition to make it a callable function. This is needed for "
+"conf.py to behave as a Sphinx extension."
+msgstr "'setup', wie derzeit in conf.py definiert, ist kein Python-Aufruf. Bitte
+ändern Sie ihre Definition, um sie zu einer aufrufbaren Funktion zu machen. Dies wird benötigt für
+conf.py, um sich als Sphinx-Erweiterung zu verhalten."
+
+#: sphinx/application.py:285
+#, python-format
+msgid "loading translations [%s]... "
+msgstr "Übersetzungen werden geladen [%s]..."
+
+#: sphinx/application.py:302 sphinx/util/__init__.py:522
+msgid "done"
+msgstr "getan"
+
+#: sphinx/application.py:304
+msgid "not available for built-in messages"
+msgstr "nicht verfügbar für integrierte Nachrichten"
+
+#: sphinx/application.py:314
+msgid "loading pickled environment"
+msgstr "Eingelegte Umgebung laden"
+
+#: sphinx/application.py:319
+#, python-format
+msgid "failed: %s"
+msgstr "fehlgeschlagen: %s"
