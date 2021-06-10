@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  Localizable
+
+  Created by Aliaksandr Ashuika on 02/06/2021.
+  Copyright © 2021 MagicLab. All rights reserved.
+*/
+
+//Details View
+"Details" = "Details";
+"Edit" = "Edit";
+"Deliveries" = "Deliveries";
+"Object" = "false";
+"Name" = "true";
+"Track No." = "Track No.";
+"Status" = "Status";
+"Last Location" = "Last Location";
+"Last Check" = "Last Check";

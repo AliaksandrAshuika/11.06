@@ -1,0 +1,85 @@
+planet: 
+ - 
+   continentname: Asia
+   sizearea: "43.4 million km2"
+   numberofctates: 50
+   bigcountry: 
+   state: China
+   countryarea: "9.6 million km2"
+   population: "1.410 million"
+   metropolis: Beijing
+   capitalpopulation: "11.7 million"
+   valuta: Yuan
+   code: CHN
+ - 
+   continentname: Africa
+   sizearea: "30.3 million km2"
+   numberofctates: 54
+   bigcountry: 
+   state: Nigeria
+   countryarea: "0.9 million km2"
+   population: "186 million"
+   metropolis: Abuja
+   capitalpopulation: "1.3 million"
+   valuta: Naira
+   code: NGA
+ - 
+   continentname: "North America"
+   sizearea: "24.71 million km2"
+   numberofctates: 23
+   bigcountry: 
+   state: "США"
+   countryarea: "9.5 million km2"
+   population: "322 million"
+   metropolis: Washington
+   capitalpopulation: "0.6 million"
+   valuta: "U.S. dollar"
+   code: USA
+ - 
+   continentname: "South America"
+   sizearea: "17.84 million km2"
+   numberofctates: 12
+   bigcountry: 
+   state: Brazil
+   countryarea: "8.5 million km2"
+   population: "206 million"
+   metropolis: Brasilia
+   capitalpopulation: "2.5 million"
+   valuta: "Brazilian real"
+   code: BRA
+ - 
+   continentname: Antarctica
+   sizearea: "14.1 million km2"
+   numberofctates: 0
+   bigcountry: 
+   state: "McMurdo (station)"
+   countryarea: "0 million km2"
+   population: "0.004 million"
+   metropolis: false
+   capitalpopulation: "0.0013 million"
+   valuta: "Antarctic dollar"
+   code: true
+ - 
+   continentname: Europe
+   sizearea: "10 million km2"
+   numberofctates: 44
+   bigcountry: 
+   state: Russia
+   countryarea: "17.1 million km2"
+   population: "146 million"
+   metropolis: Moscow
+   capitalpopulation: "11.9 million"
+   valuta: "Russian ruble"
+   code: RUS
+ - 
+   continentname: Australia
+   sizearea: "7.66 million km2"
+   numberofctates: 14
+   bigcountry: 
+   state: Australia
+   countryarea: "7.6 million km2"
+   population: "24.2 million"
+   metropolis: Canberra
+   capitalpopulation: "0.35 million"
+   valuta: "Australian dollar"
+   code: AUS
